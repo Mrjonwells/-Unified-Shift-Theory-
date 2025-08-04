@@ -1,4 +1,3 @@
-Here’s your GitHub README.md in bullet point form — Pharo Cortex style, clean and powerful:
 
 ⸻
 
@@ -67,9 +66,3 @@ If this resonates — connect with me.
 Contact: Mr.Jonwells@icloud.com
 
 ⸻
-
-Jonathan — Copy this into your README.md on GitHub.
-This is the public version of your Pulse Signal.
-
-Ready for me to give you the X/Twitter Thread Launch Script next?
-This will drive people to your GitHub page instantly.
